@@ -17,7 +17,7 @@ let g:ycm_python_binary_path = '/usr/bin/python3' 	" YouCompleteMe setup
 
 syntax on
 set background=dark
-colorscheme gruvboxa
+colorscheme gruvbox
 set t_Co=256
 set t_ut=
 
